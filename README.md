@@ -1,6 +1,6 @@
 #  Olympic Athlete Data Analysis
 
-Welcome to my Olympic data analysis project! This project focuses on uncovering key insights and recommendations from athlete and medal performance data, using tools like *Excel, Power BI, and Python*.
+Welcome to my Olympic data analysis project! This project focuses on uncovering key insights and recommendations from athlete and medal performance data, using tools like *Excel*.
 
 ---
 
